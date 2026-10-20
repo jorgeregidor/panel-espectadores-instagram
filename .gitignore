@@ -1,0 +1,5 @@
+fotogramas/
+__pycache__/
+.env
+datos_reales.antiguo.json
+resultados/*/lotes/

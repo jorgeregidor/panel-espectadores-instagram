@@ -1,0 +1,122 @@
+[
+  {
+    "id": 51,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y quiere ver si A Coruña y Galicia acaban bajo el agua y qué queda al final.",
+    "primera_impresion": "Uf, mapa de Andalucía con el mar subiendo, esto me lo veo.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "A Coruña aguanta hasta los 1.000? Lo dudo jaja"
+  },
+  {
+    "id": 52,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.0,
+    "motivo_salida": "Ve que Málaga sale en el mapa y se entera de que se inunda, pero el resto son números y texto pequeño y se va.",
+    "primera_impresion": "Un mapa con un montón de cifras, ni idea de qué pasa.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 2.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 53,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.5,
+    "motivo_salida": "Se queda hasta ver Madrid bajo el agua, que era lo que le importaba, y vuelve al trabajo.",
+    "primera_impresion": "Curioso, a ver hasta dónde llega el agua.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 54,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Está en el baño sin prisa, ve Barcelona y Terrassa hundirse y aguanta hasta ver qué ciudades quedan.",
+    "primera_impresion": "El clásico mapa de subida del mar, va.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Terrassa a 262 metros, quién lo diría"
+  },
+  {
+    "id": 55,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "El arranque con zoom en Andalucía y cifras pequeñas no le dice nada rápido; desliza en cuanto se aleja el mapa.",
+    "primera_impresion": "Otro mapa de cambio climático.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 56,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Mucho texto y un mapa oscuro; en la cama no le apetece leer y pasa.",
+    "primera_impresion": "Mapa con letras, siguiente.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 57,
+    "lo_ve_entero": false,
+    "segundo_salida": 18.0,
+    "motivo_salida": "Le engancha ver caer Barcelona y Madrid, pero a partir de Valladolid y Salamanca se le hace repetitivo y se va antes del final.",
+    "primera_impresion": "Ostras, 1.000 metros es una barbaridad, a ver qué queda.",
+    "momento_mas_flojo": 16.5,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 58,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Sevilla se hunde en el primer segundo y eso la atrapa; luego quiere saber qué queda en pie y lo ve hasta el mensaje final.",
+    "primera_impresion": "¡Anda, Sevilla bajo el agua desde el principio!",
+    "momento_mas_flojo": 22.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "En Sevilla nos ahogamos los primeros, como siempre 😂"
+  },
+  {
+    "id": 59,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Cuando sale Cáceres bajo el agua le toca de cerca y se queda para ver si queda algo de Extremadura.",
+    "primera_impresion": "A ver qué pasa con Extremadura con tanta agua.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 9.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Cáceres a 433 m, y mi pueblo seguro que antes. ¿Y Gredos?"
+  },
+  {
+    "id": 60,
+    "lo_ve_entero": false,
+    "segundo_salida": 20.5,
+    "motivo_salida": "Le interesa la parte científica y lo sigue casi todo, pero cuando llega a 1.000 m y ve que el mapa se queda quieto, desliza.",
+    "primera_impresion": "Simulación de nivel del mar, me gustan estas cosas.",
+    "momento_mas_flojo": 19.0,
+    "momento_mas_fuerte": 13.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

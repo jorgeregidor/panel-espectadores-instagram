@@ -1,0 +1,122 @@
+[
+  {
+    "id": 61,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Ve que el mar va subiendo hacia la meseta y quiere saber si Soria aguanta; cuando sale que Soria es de las últimas en pie se queda hasta el final.",
+    "primera_impresion": "Un mapa de Andalucía con el mar subiendo, a ver hasta dónde llega esto.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Soria, la última en pie como siempre, ni el mar nos encuentra"
+  },
+  {
+    "id": 62,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "En los primeros segundos solo ve un mapa oscuro de Andalucía con un poco de azul y muchos números; nada le llama la atención y desliza.",
+    "primera_impresion": "Otro mapa con cifras, esto no va conmigo.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 63,
+    "lo_ve_entero": false,
+    "segundo_salida": 15.0,
+    "motivo_salida": "Aguanta hasta ver que Madrid se hunde, que era lo que le interesaba; después es más de lo mismo y pasa al siguiente.",
+    "primera_impresion": "Mil metros es una barbaridad, a ver cuándo cae Madrid.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 64,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y ve cómo se hunde Cáceres; se queda a ver qué queda al final, aunque los últimos segundos ya no cambian.",
+    "primera_impresion": "Uy, un mapa de España con el mar subiendo, esto me gusta.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 9.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Cáceres a 433 metros y yo pensando que estábamos altos"
+  },
+  {
+    "id": 65,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "El salto a ver toda España le engancha un momento, pero sin sonido y con el mapa avanzando poco a poco se cansa antes de que pase nada gordo.",
+    "primera_impresion": "Simulación de subida del mar, mil metros es ciencia ficción pero bueno.",
+    "momento_mas_flojo": 5.5,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 66,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.5,
+    "motivo_salida": "Le pica la curiosidad cuando aparece el mapa entero, pero en la cola le basta con ver que Barcelona está en la costa y se aburre de mirar números.",
+    "primera_impresion": "Mira, España inundada, curioso.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 67,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.0,
+    "motivo_salida": "Se engancha viendo cómo cae ciudad tras ciudad, pero en el tramo final el mapa ya está casi todo azul y lo que va pasando se parece demasiado; desliza justo antes del remate.",
+    "primera_impresion": "Mil metros de mar, esto va a acabar con todo.",
+    "momento_mas_flojo": 18.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 68,
+    "lo_ve_entero": false,
+    "segundo_salida": 11.0,
+    "motivo_salida": "El título y el mapa le enganchan más que a otros, ve hundirse Zaragoza y Barcelona, pero el avance es lento y lo deja a mitad.",
+    "primera_impresion": "Mapas y mar subiendo, esto me lo veo un poco.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 69,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Ve que el agua se acerca a Castilla y se queda a ver si Soria se salva; al ver Soria resaltada como de las únicas que quedan le hace gracia y se lo manda a alguien.",
+    "primera_impresion": "Mapa de la costa inundándose, a ver si llega hasta aquí.",
+    "momento_mas_flojo": 6.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Soria ya existe y además sobrevive 😂"
+  },
+  {
+    "id": 70,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Un mapa oscuro con cifras al principio no le dice nada y desliza casi sin pensar.",
+    "primera_impresion": "Mapa y números, siguiente.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

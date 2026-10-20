@@ -1,0 +1,122 @@
+[
+  {
+    "id": 71,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "El primer segundo es un mapa oscuro del sur sin nada moviéndose y mucho texto; no le da tiempo a que le enganche y desliza.",
+    "primera_impresion": "Otro mapa de esos con números, a ver... no, siguiente.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 72,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Ve que Sevilla se llena de agua y el contador de personas sube, le hace un poco de gracia, pero no es lo suyo y en el metro sigue pasando.",
+    "primera_impresion": "¿1.000 metros? Eso es una burrada, es imposible.",
+    "momento_mas_flojo": 0.0,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 73,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y el relieve; ver cómo la meseta se va convirtiendo en islas hasta quedar solo Ávila, Soria y Segovia le tiene pegado hasta el final.",
+    "primera_impresion": "Esto me lo veo, quiero saber qué queda de España.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "Palma ya estaba bajo el agua a los 150 m y yo aquí mirando Soria jaja. Ávila capital del Mediterráneo"
+  },
+  {
+    "id": 74,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Ve Valencia aparecer en azul y le hace algo de gracia, pero no le aporta nada y pasa al siguiente.",
+    "primera_impresion": "Mapa de España inundándose, vale.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 75,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.5,
+    "motivo_salida": "Sin sonido entiende el tema por el título y los números, aguanta un rato viendo la costa hundirse, pero cuando la cola avanza lo deja; ya ha pillado la idea.",
+    "primera_impresion": "Mira, el mapa de cuando se derrita todo, a ver si llega a Galicia.",
+    "momento_mas_flojo": 6.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 76,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.0,
+    "motivo_salida": "Espera a ver cuándo se hunde Madrid porque vive al lado, pero el tramo del medio con el agua subiendo poco a poco se le hace largo y se va antes de que llegue.",
+    "primera_impresion": "A ver si llega a Madrid, que eso sería lo gracioso.",
+    "momento_mas_flojo": 12.5,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 77,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le flipan los mapas; ver cómo Madrid cae a +654 m y que el final deje solo tres capitales le compensa, aunque el cierre quieto lo mira ya de pasada.",
+    "primera_impresion": "Uff, este tipo de mapas me encantan, a ver qué queda.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Mi pueblo se hunde a los 650 m más o menos, mismo destino que Madrid"
+  },
+  {
+    "id": 78,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.0,
+    "motivo_salida": "Entiende la idea en un par de segundos pero no le interesan los mapas; ve Valencia en azul, se ríe un poco y pasa.",
+    "primera_impresion": "1.000 metros dice, que esto no pasa ni en Waterworld.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 79,
+    "lo_ve_entero": false,
+    "segundo_salida": 11.5,
+    "motivo_salida": "Ve hundirse Girona y Barcelona y le hace gracia, pero después el mapa cambia muy poco a poco y con tanto texto pequeño se aburre.",
+    "primera_impresion": "Mapa de España con el mar subiendo, curioso.",
+    "momento_mas_flojo": 10.5,
+    "momento_mas_fuerte": 6.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 80,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Un mapa con muchos números pequeños y sin sonido; en dos segundos no ve nada que le haga gracia y desliza.",
+    "primera_impresion": "Un mapa con datos, no me apetece leer.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

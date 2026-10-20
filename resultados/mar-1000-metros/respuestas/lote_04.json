@@ -1,0 +1,122 @@
+[
+  {
+    "id": 31,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.5,
+    "motivo_salida": "Ve que es un mapa con agua subiendo y números, no es lo suyo y en la cama sigue buscando memes.",
+    "primera_impresion": "Un mapa de Andalucía con mucho texto, otro vídeo de catástrofes.",
+    "momento_mas_flojo": 0.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 32,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.0,
+    "motivo_salida": "Se queda viendo cómo se hunde todo, pero Canarias apenas cambia y cuando ya está casi todo azul se baja en su parada antes del final.",
+    "primera_impresion": "Uy, el mar se come Sevilla, a ver hasta dónde llega.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 33,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le engancha ver Barcelona y Girona hundirse y luego Madrid; quiere ver qué queda al final.",
+    "primera_impresion": "El agua entrando por el Guadalquivir, curioso.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Que no cunda el pánico, a 1000 m no hay hielo suficiente ni de broma 😂 pero mola el mapa"
+  },
+  {
+    "id": 34,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Un mapa estático lleno de cifras pequeñas en el móvil no le llama nada en el autobús.",
+    "primera_impresion": "Otro mapa con datos, paso.",
+    "momento_mas_flojo": 0.0,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 35,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "Ve que Barcelona y su zona se inundan, le hace gracia, pero después solo ve el azul avanzar despacio y vuelve al trabajo.",
+    "primera_impresion": "Simulación del mar subiendo, a ver si sale Barcelona.",
+    "momento_mas_flojo": 6.5,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 36,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Ve Málaga en el mapa y el agua empezando, pero no tiene paciencia en la cola y salta al siguiente.",
+    "primera_impresion": "Anda, sale Málaga; esto va de cambio climático.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 37,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.0,
+    "motivo_salida": "Espera a ver si llega a Toledo; como el ritmo es uniforme y no pasa nada nuevo un rato, se aburre justo antes.",
+    "primera_impresion": "1.000 metros, eso hunde media España, a ver mi zona.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 38,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas: va mirando cómo se va hundiendo cada capital y Murcia cae pronto; se queda para ver cuáles sobreviven.",
+    "primera_impresion": "Mapa con relieve real, esto me interesa.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Murcia a los pocos segundos, como siempre jajaja. Lo de Ávila, Soria y Segovia de último no me lo esperaba"
+  },
+  {
+    "id": 39,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Mapas y geografía es lo suyo; ver Barcelona caer temprano y la meseta resistir le engancha hasta el cartel final.",
+    "primera_impresion": "El mar entrando en Sevilla, qué pasada.",
+    "momento_mas_flojo": 22.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Barcelona fuera a los 4 segundos 😭"
+  },
+  {
+    "id": 40,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.0,
+    "motivo_salida": "Le engancha la progresión y ver Madrid hundirse, pero en cuanto sale el cartel final y la imagen se queda quieta, desliza.",
+    "primera_impresion": "Simulación de subida del mar, a ver si es realista.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "No hay tanta agua en la Tierra para subir 1000 m, pero visualmente está guapo"
+  }
+]

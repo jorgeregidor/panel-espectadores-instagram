@@ -1,0 +1,122 @@
+[
+  {
+    "id": 61,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.5,
+    "motivo_salida": "Le gustó ver la sombra pasar por Castilla, pero cuando sale el mapa amarillo quieto ya ha entendido el resumen y se va.",
+    "primera_impresion": "Un mapa de España con mucho texto y la palabra eclipse; a ver qué pasa en Soria.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 15.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 62,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Mapa gris lleno de letras pequeñas y un contador a cero; nada se mueve, desliza.",
+    "primera_impresion": "Una infografía estática, parece un informe.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 63,
+    "lo_ve_entero": false,
+    "segundo_salida": 5.0,
+    "motivo_salida": "Los primeros segundos solo suben porcentajes diminutos y el contador sigue en 0; se aburre antes de que llegue la sombra.",
+    "primera_impresion": "Datos del eclipse en España, puede ser interesante si se ve Madrid.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 2.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 64,
+    "lo_ve_entero": true,
+    "segundo_salida": 31.0,
+    "motivo_salida": "Le encantan los mapas y quiere ver si Cáceres quedó cerca de la totalidad; aguanta el mapa final leyendo las cifras.",
+    "primera_impresion": "Un mapa de España con el eclipse de agosto, eso lo quiero ver.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 14.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "¿Y en Cáceres cuánto se tapó? No sale"
+  },
+  {
+    "id": 65,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Le interesa el espacio, pero el mapa está quieto y no ve sombra ni eclipse en los dos primeros segundos.",
+    "primera_impresion": "Eclipse, guay, pero esto parece una tabla de datos.",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 66,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.0,
+    "motivo_salida": "No pasa nada en pantalla y está en una cola con prisa; siguiente.",
+    "primera_impresion": "Mapa oscuro con números, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 67,
+    "lo_ve_entero": false,
+    "segundo_salida": 13.0,
+    "motivo_salida": "Esperó a ver Barcelona; al ver que se queda en 99,85% y no total, pierde el interés.",
+    "primera_impresion": "Curioso, el eclipse de este verano en un mapa.",
+    "momento_mas_flojo": 3.5,
+    "momento_mas_fuerte": 12.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Barcelona al 99,85% y nos quedamos sin total, qué rabia"
+  },
+  {
+    "id": 68,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Le gustan los mapas y lee el título, pero el mapa no cambia nada visible y se cansa.",
+    "primera_impresion": "Mapa de España del eclipse, a ver.",
+    "momento_mas_flojo": 2.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 69,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Entiende que va del eclipse pero no le interesa y la pantalla está quieta.",
+    "primera_impresion": "Otro vídeo del eclipse, ya lo vi en agosto.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 70,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.0,
+    "motivo_salida": "Nada que le llame la atención: mapa gris y texto pequeño.",
+    "primera_impresion": "Esto es de ciencias, no es lo mío.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

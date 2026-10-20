@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "lo_ve_entero": false,
+    "segundo_salida": 25.0,
+    "motivo_salida": "Le engancha ver la sombra recorrer el norte y llegar a Madrid, pero cuando aparece el mapa amarillo fijo y no se mueve nada, desliza.",
+    "primera_impresion": "Un mapa de España oscuro con un reloj; ¿esto es el eclipse de este verano?",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 17.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 2,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.5,
+    "motivo_salida": "Ve un mapa gris con números pequeños y un contador en 0; no pasa nada y el eclipse no le dice mucho.",
+    "primera_impresion": "Infografía del eclipse, mucho texto y nada moviéndose.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 3,
+    "lo_ve_entero": true,
+    "segundo_salida": 31.0,
+    "motivo_salida": "Es justo su tema (espacio) y el eclipse pasó cerca de Toledo; se queda a ver la franja final para comparar con lo que vio él.",
+    "primera_impresion": "Uf, el eclipse de agosto en mapa, a ver cómo se vio en mi zona.",
+    "momento_mas_flojo": 28.0,
+    "momento_mas_fuerte": 8.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Yo lo vi desde Toledo al 99 y pico y ya se hizo casi de noche, en la franja tuvo que ser brutal"
+  },
+  {
+    "id": 4,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.0,
+    "motivo_salida": "Como fan de mapas le gusta ver la sombra cruzar y ver que Barcelona se quedó en 99,85 %, pero el final quieto se le hace largo.",
+    "primera_impresion": "Mapa de España de noche con un reloj, a ver qué es.",
+    "momento_mas_flojo": 26.0,
+    "momento_mas_fuerte": 12.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Barcelona quedándose al 99,85 % es lo más Barcelona posible"
+  },
+  {
+    "id": 5,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Sin sonido ve un mapa oscuro casi estático y un contador a cero; no le parece noticia nueva y pasa.",
+    "primera_impresion": "Lo del eclipse otra vez, ya se habló bastante.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 6,
+    "lo_ve_entero": false,
+    "segundo_salida": 20.0,
+    "motivo_salida": "Le interesa ver el recorrido y la cifra de gente en totalidad, pero cuando la sombra sale por Valencia y el contador vuelve a 0 da el tema por cerrado.",
+    "primera_impresion": "Dato curioso con mapa, le doy unos segundos.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 16.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 7,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Mapa oscuro lleno de numeritos y nada pasando; no es lo suyo.",
+    "primera_impresion": "Un mapa con datos, siguiente.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 8,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.5,
+    "motivo_salida": "Le gusta el mapa y la sombra moviéndose, aguanta el arranque lento por el título, pero el resumen final no se mueve y desliza.",
+    "primera_impresion": "Mapa de España y eclipse, eso me lo miro.",
+    "momento_mas_flojo": 3.5,
+    "momento_mas_fuerte": 14.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 9,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.0,
+    "motivo_salida": "Ve que Sevilla queda fuera y en los primeros segundos solo se oscurece un poco el mapa; se aburre.",
+    "primera_impresion": "El eclipse, que en Sevilla no se vio entero.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 10,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "El título le interesa pero en dos segundos no se mueve nada visible salvo el reloj, y desliza.",
+    "primera_impresion": "Mapa del eclipse, ¿pero dónde está la sombra?",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

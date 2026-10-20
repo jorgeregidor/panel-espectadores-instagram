@@ -1,0 +1,122 @@
+[
+  {
+    "id": 51,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.5,
+    "motivo_salida": "La caída en cinco segundos me flipó, pero la vuelta de la luz va tan lenta y tan igual que a mitad me cansé.",
+    "primera_impresion": "Un mapa de España con el apagón de abril, a ver cómo lo pintan.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "En Galicia volvió antes de lo que pone aquí, ¿no?"
+  },
+  {
+    "id": 52,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Mucho texto y un mapa marrón quieto; antes de que se pusiera rojo ya había deslizado.",
+    "primera_impresion": "Otro vídeo de mapas con números, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 53,
+    "lo_ve_entero": false,
+    "segundo_salida": 31.0,
+    "motivo_salida": "Me quedé por ver cuándo volvía la luz a Madrid; en cuanto la vi encenderse ya no me hacía falta el resto.",
+    "primera_impresion": "El apagón, yo lo viví en la oficina; vamos a ver cómo fue.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Yo estaba en el metro de Madrid cuando pasó, qué agobio"
+  },
+  {
+    "id": 54,
+    "lo_ve_entero": false,
+    "segundo_salida": 10.0,
+    "motivo_salida": "Vi el rojo comerse la península en segundos, pero luego cuatro segundos de mapa negro sin moverse y me salí.",
+    "primera_impresion": "Mapa de España con cuenta de porcentaje, pinta interesante.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 6.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 55,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.0,
+    "motivo_salida": "La mancha roja creciendo me paró un momento, pero no es lo mío y seguí bajando.",
+    "primera_impresion": "Un mapa oscuro con letras amarillas, ni idea de qué va.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 56,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Primeros segundos estáticos y con mucha letra pequeña; en la cama no tengo paciencia.",
+    "primera_impresion": "Datos y un mapa, demasiada información de golpe.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 57,
+    "lo_ve_entero": false,
+    "segundo_salida": 18.5,
+    "motivo_salida": "Me gustó ver que Barcelona aguantó hasta el final y que tiraron de Francia, pero luego son puntitos encendiéndose y ya.",
+    "primera_impresion": "El apagón, ostras, ese día no había ni cobertura.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Catalunya la última en apagarse y de las primeras en volver"
+  },
+  {
+    "id": 58,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Quería ver cuándo le volvía la luz a Sevilla y cómo acababa; el resumen de las 18 horas lo cierra bien.",
+    "primera_impresion": "Qué miedo pasamos ese día, a ver qué cuentan.",
+    "momento_mas_flojo": 38.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "En Sevilla nos volvió por la tarde-noche, la radio de pilas nos salvó"
+  },
+  {
+    "id": 59,
+    "lo_ve_entero": false,
+    "segundo_salida": 36.0,
+    "motivo_salida": "La historia de cómo se reconstruyó la red con las hidráulicas me enganchó, pero el final es un mapa casi encendido que apenas cambia.",
+    "primera_impresion": "Simulación del apagón, me interesa saber cómo empezó, que fue cerca de casa.",
+    "momento_mas_flojo": 34.0,
+    "momento_mas_fuerte": 13.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "El origen en Extremadura, como dijeron. Alcántara arrancando de las primeras"
+  },
+  {
+    "id": 60,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.5,
+    "motivo_salida": "El colapso en cascada es brutal, pero lo de los círculos de las centrales sin sonido no lo acabé de pillar y me aburrí.",
+    "primera_impresion": "Visualización de datos con mapa, me suele gustar esto.",
+    "momento_mas_flojo": 12.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

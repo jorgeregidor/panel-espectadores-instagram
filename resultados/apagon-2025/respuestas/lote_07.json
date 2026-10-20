@@ -1,0 +1,122 @@
+[
+  {
+    "id": 61,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.0,
+    "motivo_salida": "Lo del apagón lo vivió y la mancha roja le engancha, pero cuando España se va encendiendo poco a poco y todo se parece, se cansa antes de llegar al final.",
+    "primera_impresion": "Anda, el apagón de abril, a ver cómo fue eso.",
+    "momento_mas_flojo": 24.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 62,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.5,
+    "motivo_salida": "La ola roja en 5 segundos le parece curiosa, pero cuando el mapa se queda negro y quieto ya ha visto lo que quería y desliza.",
+    "primera_impresion": "Un mapa con letras amarillas, otro de estos de datos.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 63,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Le interesa la parte técnica de la red, las interconexiones con Francia y Marruecos y las hidráulicas, y quiere ver cuánto se tardó en recuperar todo.",
+    "primera_impresion": "El apagón explicado con datos de REE, esto me interesa.",
+    "momento_mas_flojo": 33.0,
+    "momento_mas_fuerte": 12.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Lo de que se cayera todo en 5 segundos sigue sin tener una explicación oficial clara. Y luego nos venden que la red es robusta"
+  },
+  {
+    "id": 64,
+    "lo_ve_entero": false,
+    "segundo_salida": 36.0,
+    "motivo_salida": "Le gusta ver el mapa y busca cuándo vuelve la luz en Extremadura, pero al final ya solo bajan porcentajes y lo deja antes del resultado.",
+    "primera_impresion": "Mira, Badajoz y Mérida, el apagón empezó por aquí al lado.",
+    "momento_mas_flojo": 34.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Pues en mi pueblo volvió la luz bastante más tarde de lo que pone aquí"
+  },
+  {
+    "id": 65,
+    "lo_ve_entero": false,
+    "segundo_salida": 9.5,
+    "motivo_salida": "La propagación roja le engancha unos segundos, pero cuando todo se queda negro y solo cambia el reloj, se aburre y pasa.",
+    "primera_impresion": "Una simulación del apagón, a ver qué tal.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 66,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "En el primer segundo solo ve un mapa oscuro con mucho texto y no le dice nada, así que desliza antes de que empiece la mancha roja.",
+    "primera_impresion": "Mucho texto y un mapa, siguiente.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 67,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.0,
+    "motivo_salida": "El apagón le parece curioso y quiere ver cuándo vuelve la luz a Barcelona; cuando lo ve, a los 18 s, siente que ya está y se va.",
+    "primera_impresion": "Ostras, el día del apagón, yo estaba en el curro sin nada.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 18.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Barcelona de las primeras en volver gracias a Francia, tiene sentido"
+  },
+  {
+    "id": 68,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.0,
+    "motivo_salida": "Le gustan los mapas y la ola roja le atrapa, pero el tramo negro con circulitos pequeños sin sonido no se entiende bien y acaba deslizando.",
+    "primera_impresion": "Mapa de España, el apagón, vale, le doy un momento.",
+    "momento_mas_flojo": 10.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 69,
+    "lo_ve_entero": false,
+    "segundo_salida": 22.0,
+    "motivo_salida": "Entiende enseguida que es el apagón y se queda por la parte de la red eléctrica, pero en la recuperación lenta empieza a bostezar y pasa.",
+    "primera_impresion": "El apagón, qué día, me quedé sin cobertura en el pueblo.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 6.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 70,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Ve que empieza a salir una mancha roja, pero a esta hora en el sofá no le apetecen mapas ni datos y desliza en busca de algo gracioso.",
+    "primera_impresion": "Otro vídeo del apagón, ya está muy visto.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

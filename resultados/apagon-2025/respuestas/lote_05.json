@@ -1,0 +1,122 @@
+[
+  {
+    "id": 41,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Ve un mapa oscuro con mucho texto y cifras, nada de viajes ni memes, y desliza antes de que pase nada.",
+    "primera_impresion": "Uf, otro vídeo del apagón con un mapa lleno de números.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 42,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.5,
+    "motivo_salida": "La mancha roja le engancha un momento porque vivió el apagón en Madrid, pero en cuanto ve que es un mapa de datos sigue con lo suyo.",
+    "primera_impresion": "Anda, el apagón de abril, me pilló en el curro.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 43,
+    "lo_ve_entero": false,
+    "segundo_salida": 9.5,
+    "motivo_salida": "La ola roja tapando España le atrapa, pero luego el mapa se queda negro y quieto varios segundos y solo cambia la hora, así que se cansa.",
+    "primera_impresion": "El apagón, a ver cómo lo pintan; en Granada estuvimos sin luz toda la tarde.",
+    "momento_mas_flojo": 8.5,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 44,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "Ve que Canarias se queda con luz y el resto en negro; ya entiende la idea y sin sonido el mapa parado no le da motivo para seguir.",
+    "primera_impresion": "Esto es el apagón de la península, a nosotros ni nos tocó.",
+    "momento_mas_flojo": 6.5,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 45,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.0,
+    "motivo_salida": "Le interesa lo de las interconexiones con Francia y Marruecos, pero los círculos van lentos y el contador apenas baja, y le toca avanzar en la cola.",
+    "primera_impresion": "Simulación del apagón, curioso ver cómo cayó en segundos.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 46,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "El rojo saliendo del suroeste le llama la atención un segundo, pero piensa que ya lo vio mil veces en las noticias y desliza.",
+    "primera_impresion": "¿Otra vez el apagón? Lo de la culpa de las renovables, seguro.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 47,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.0,
+    "motivo_salida": "Le flipa que España se apague en 5 segundos y sigue la vuelta de la luz un rato, pero a partir de la mitad es lo mismo, puntitos encendiéndose, y se aburre.",
+    "primera_impresion": "Mira, el apagón en un mapa, a ver qué tal.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "En 5 segundos se fue todo, qué locura"
+  },
+  {
+    "id": 48,
+    "lo_ve_entero": false,
+    "segundo_salida": 8.0,
+    "motivo_salida": "La música y el rojo le enganchan al principio, pero cuando el mapa se queda negro sin moverse no tiene nada que ver y pasa.",
+    "primera_impresion": "Ah, el día del apagón, que nos quedamos sin cobertura.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 49,
+    "lo_ve_entero": false,
+    "segundo_salida": 30.0,
+    "motivo_salida": "Le interesa ver qué ciudades recuperaron la luz antes y espera a ver Madrid, pero el ritmo es lento y repetitivo y se baja antes del final.",
+    "primera_impresion": "Uy, la simulación del apagón, esto lo quiero ver.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Madrid de las últimas en volver, cómo no"
+  },
+  {
+    "id": 50,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Le interesa la parte técnica (pérdida de sincronía, hidráulicas, interconexiones) y quiere ver el dato final de cuánto tardó en volver todo.",
+    "primera_impresion": "Simulación con la cronología de REE, esto pinta bien.",
+    "momento_mas_flojo": 43.0,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Buen trabajo con las hidráulicas y el arranque en negro. ¿Cuánto aguantó Teruel?"
+  }
+]

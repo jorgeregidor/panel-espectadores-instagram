@@ -1,0 +1,122 @@
+[
+  {
+    "id": 21,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.0,
+    "motivo_salida": "Le encantan los mapas y quiere ver si llega a Asturias, pero el norte apenas cambia y a mitad se cansa de ver numeritos subir.",
+    "primera_impresion": "Un mapa de Andalucía con el titular de España bajo el mar, a ver qué pasa con Oviedo.",
+    "momento_mas_flojo": 11.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 22,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.5,
+    "motivo_salida": "Ve que Barcelona y la costa se hunden, le hace gracia un momento, pero el resto es subir un contador y pasa al siguiente.",
+    "primera_impresion": "1.000 metros de mar, eso es una burrada, a ver si sale Barcelona.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 23,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Es de Soria y se queda para ver si su provincia aguanta; al final sale Soria entre las tres que quedan y le hace ilusión.",
+    "primera_impresion": "Otra simulación de cambio climático exagerada, pero a ver hasta dónde llega.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Soria siempre resiste jajaja, la España vaciada al final será la que quede"
+  },
+  {
+    "id": 24,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Mucho texto y cifras pequeñas en la primera imagen, un mapa casi quieto de Andalucía, y no se para a leer.",
+    "primera_impresion": "Un mapa con muchas letras, otra cosa de esas del clima.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 25,
+    "lo_ve_entero": false,
+    "segundo_salida": 16.0,
+    "motivo_salida": "Le interesa el dato científico y espera a ver Valladolid hundirse, pero en cuanto lo ve a los 15 s ya tiene lo que buscaba y se va.",
+    "primera_impresion": "Simulación con relieve real, curioso, a ver si cuadra con la altitud de Valladolid.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 15.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Valladolid a 690 m y se hunde a 729? Me lo creo"
+  },
+  {
+    "id": 26,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Es un mapa con datos, sin gracia ni chiste; en el descanso prefiere memes y desliza.",
+    "primera_impresion": "Un mapita de esos con porcentajes, paso.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 27,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.5,
+    "motivo_salida": "Le engancha ver el agua comiéndose la península como en un juego, pero cuando sale el mensaje final y el mapa se queda congelado se va.",
+    "primera_impresion": "Mola, parece un mapa de estrategia con el agua subiendo.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 28,
+    "lo_ve_entero": false,
+    "segundo_salida": 8.0,
+    "motivo_salida": "La entrada le pilla por la ciencia y se queda hasta ver Madrid amenazado, pero el ritmo es igual todo el rato y se aburre antes.",
+    "primera_impresion": "Mar subiendo 1.000 metros, hipotético, pero me gusta este tipo de cosas.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 29,
+    "lo_ve_entero": false,
+    "segundo_salida": 11.0,
+    "motivo_salida": "Se queda para ver caer Zaragoza; cuando sale el aviso de Zaragoza bajo el agua ya está satisfecho y pasa.",
+    "primera_impresion": "A ver cuánto tarda en hundirse Zaragoza.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 10.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Zaragoza en el 225, ni tan mal"
+  },
+  {
+    "id": 30,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "En la cola, primer vistazo es un mapa oscuro de Andalucía con mucho texto y no le da tiempo a que pase nada.",
+    "primera_impresion": "Un mapa con un titular raro, siguiente.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

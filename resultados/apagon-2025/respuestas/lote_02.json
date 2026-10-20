@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.5,
+    "motivo_salida": "La mancha roja tragándose España le engancha unos segundos, pero cuando todo se queda negro y quieto se aburre y desliza.",
+    "primera_impresion": "Un mapa de España con mucho texto, otro vídeo de datos... aunque pone apagón, a ver.",
+    "momento_mas_flojo": 7.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 12,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.0,
+    "motivo_salida": "Recuerda el apagón de abril y le flipa ver los 5 segundos del colapso, pero la vuelta de la luz provincia a provincia se le hace repetitiva.",
+    "primera_impresion": "Anda, el apagón de abril; a ver cómo fue de verdad.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Yo estaba en el metro de Madrid cuando pasó, qué locura"
+  },
+  {
+    "id": 13,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.0,
+    "motivo_salida": "El colapso en cadena le parece brutal, pero luego el mapa negro sin cambios y los rótulos de interconexiones le parecen demasiado técnicos.",
+    "primera_impresion": "El apagón, eso fue un caos; a ver qué enseñan.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 14,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Le encantan los mapas y ver cómo se reencienden las ciudades una a una le tiene pegado buscando Zaragoza hasta el final.",
+    "primera_impresion": "Mapa de España de noche con las luces de las ciudades, esto me gusta.",
+    "momento_mas_flojo": 8.5,
+    "momento_mas_fuerte": 23.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Zaragoza a las 19:50, justo como lo recuerdo. Buen mapa"
+  },
+  {
+    "id": 15,
+    "lo_ve_entero": false,
+    "segundo_salida": 33.0,
+    "motivo_salida": "Le interesa el mapa y espera a ver cuándo vuelve la luz a Galicia; cuando sale Pontevedra y no A Coruña, se cansa y pasa.",
+    "primera_impresion": "Mapa de España y el apagón, esto me lo miro.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "¿Y Galicia qué? A Coruña ni aparece"
+  },
+  {
+    "id": 16,
+    "lo_ve_entero": false,
+    "segundo_salida": 28.0,
+    "motivo_salida": "Le parece una curiosidad histórica reciente y le gusta ver el mapa iluminarse, pero a mitad de la recuperación ya no hay sorpresas y se duerme el interés.",
+    "primera_impresion": "Ah, lo del apagón; mola verlo en un mapa.",
+    "momento_mas_flojo": 26.0,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 17,
+    "lo_ve_entero": false,
+    "segundo_salida": 10.0,
+    "motivo_salida": "El arranque con el porcentaje subiendo le impacta, pero el mapa negro con la hora saltando sin pasar nada le hace deslizar.",
+    "primera_impresion": "El apagón, eso salió en todas las noticias.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 18,
+    "lo_ve_entero": false,
+    "segundo_salida": 36.0,
+    "motivo_salida": "Mapas le pueden, aguanta viendo volver la luz a Madrid, pero después de eso solo bajan porcentajes y le llaman en la cola.",
+    "primera_impresion": "Mapa del apagón, a ver cuánto tardó en volver a Madrid.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 25.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 19,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "No le interesan los mapas ni la electricidad; ve mucho texto y números y pasa.",
+    "primera_impresion": "Infografía con números, paso.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 20,
+    "lo_ve_entero": false,
+    "segundo_salida": 41.5,
+    "motivo_salida": "Le pica la curiosidad por saber cuánto tardó Asturias y aguanta bastante, pero la parte final con porcentajes casi a cero se le alarga y se va justo al salir el resultado.",
+    "primera_impresion": "Qué curioso, el apagón simulado segundo a segundo.",
+    "momento_mas_flojo": 38.0,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "En Oviedo volvió antes que en muchos sitios, curioso"
+  }
+]

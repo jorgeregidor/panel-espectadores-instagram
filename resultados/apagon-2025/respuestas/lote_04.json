@@ -1,0 +1,122 @@
+[
+  {
+    "id": 31,
+    "lo_ve_entero": false,
+    "segundo_salida": 10.0,
+    "motivo_salida": "La mancha roja comiéndose España en 5 segundos mola, pero luego el mapa se queda negro sin pasar nada y vuelvo a mis memes.",
+    "primera_impresion": "Anda, el apagón de abril, a ver cómo lo pintan.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 32,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.5,
+    "motivo_salida": "Ver cómo se apaga todo engancha, pero después son minutos de mapa negro con circulitos y en Canarias ni nos enteramos, así que deslizo.",
+    "primera_impresion": "Un mapa con el apagón, eso lo vivió mi hermana en Madrid.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 33,
+    "lo_ve_entero": false,
+    "segundo_salida": 8.0,
+    "motivo_salida": "El colapso en cascada me engancha, pero en cuanto se queda todo negro y quieto pierdo el interés.",
+    "primera_impresion": "Mucho texto, pero sale un círculo en Badajoz y empieza a ponerse rojo.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 34,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Un mapa con números y letras pequeñas; en el primer segundo no pasa nada y paso al siguiente.",
+    "primera_impresion": "Otra vez lo del apagón, ya está muy visto.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 35,
+    "lo_ve_entero": false,
+    "segundo_salida": 24.0,
+    "motivo_salida": "Me interesa la parte técnica (Francia, Marruecos, hidráulicas, Barcelona primero), pero cuando ya es solo ir encendiendo ciudades el descanso se acaba y me aburro.",
+    "primera_impresion": "Simulación del apagón calibrada con REE, a ver si es fiel.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 12.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Barcelona volvió antes por la interconexión con Francia, se ve clarísimo"
+  },
+  {
+    "id": 36,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "El arranque rojo me para el dedo, pero luego todo negro y quieto y en la cola no tengo paciencia.",
+    "primera_impresion": "El apagón de Sánchez, a ver qué dicen.",
+    "momento_mas_flojo": 7.0,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Y todavía nadie ha dimitido"
+  },
+  {
+    "id": 37,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Veo que empieza a ponerse rojo pero no entiendo bien qué es tanto número y deslizo.",
+    "primera_impresion": "Un mapa de España con un circulito, no sé muy bien de qué va.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 38,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Mapas y el apagón que viví en Murcia: quiero ver cuándo volvía la luz a mi zona y el dato final, aunque el último cuarto se hace lento.",
+    "primera_impresion": "Esto es justo lo mío: el apagón de abril en mapa y segundo a segundo.",
+    "momento_mas_flojo": 36.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "En Murcia nos volvió sobre las 11 de la noche, cuadra bastante"
+  },
+  {
+    "id": 39,
+    "lo_ve_entero": false,
+    "segundo_salida": 20.0,
+    "motivo_salida": "Me quedo por el mapa y por ver cuándo vuelve Barcelona; en cuanto se enciende ya tengo lo que quería.",
+    "primera_impresion": "Un mapa de España poniéndose rojo, a ver.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 18.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 40,
+    "lo_ve_entero": false,
+    "segundo_salida": 32.0,
+    "motivo_salida": "Ver la cascada y luego la red reconstruyéndose me gusta, pero cuando ya es bajar de 9% a 8% a 7% sin nada nuevo me voy.",
+    "primera_impresion": "Simulación del apagón, esto me interesa por cómo funciona la red.",
+    "momento_mas_flojo": 30.5,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

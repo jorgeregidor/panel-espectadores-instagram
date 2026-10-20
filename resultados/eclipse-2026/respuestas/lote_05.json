@@ -1,0 +1,122 @@
+[
+  {
+    "id": 41,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Un mapa gris lleno de números y un reloj que apenas se mueve; no pasa nada que le llame la atención y no le interesan los eclipses.",
+    "primera_impresion": "Otro mapa de España con datos, pinta de telediario.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 42,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.0,
+    "motivo_salida": "Ve mucho texto pequeño sobre un mapa oscuro y ningún movimiento; desliza sin pensarlo.",
+    "primera_impresion": "Infografía del eclipse, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 43,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.5,
+    "motivo_salida": "Le hace gracia ver pasar la sombra por Granada y el norte, pero el mapa está lleno de letra pequeña y en el baño se cansa cuando la franja sale de la península.",
+    "primera_impresion": "Ah, el eclipse de agosto; a ver por dónde pasó.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 9.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 44,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Entiende que es sobre el eclipse, pero los primeros segundos solo cambian unos porcentajes y desde Canarias no le toca nada.",
+    "primera_impresion": "El eclipse que se vio en la península, aquí ni nos enteramos.",
+    "momento_mas_flojo": 2.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 45,
+    "lo_ve_entero": false,
+    "segundo_salida": 17.5,
+    "motivo_salida": "Se queda para ver si la totalidad pasaba por Madrid; al ver el 99,97 % y que la sombra se va hacia Valencia ya tiene su respuesta y desliza.",
+    "primera_impresion": "¿Madrid entraba en la totalidad o no? A ver.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 17.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Madrid al 99,97 % y sin totalidad, qué rabia"
+  },
+  {
+    "id": 46,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "No le interesa el tema y el arranque es un mapa quieto con cifras; se va en el metro sin darle opción.",
+    "primera_impresion": "Mapa con números, aburrido.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 47,
+    "lo_ve_entero": false,
+    "segundo_salida": 22.0,
+    "motivo_salida": "Le engancha como curiosidad el anillo de luz cruzando ciudad por ciudad, pero cuando la sombra sale al mar y solo bajan porcentajes pierde el interés.",
+    "primera_impresion": "Curioso, el recorrido del eclipse por España.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 9.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 48,
+    "lo_ve_entero": false,
+    "segundo_salida": 5.0,
+    "motivo_salida": "Con la música aguanta un poco, pero el mapa se va oscureciendo tan despacio que no ve que pase nada y se va antes de que aparezca la sombra.",
+    "primera_impresion": "Lo del eclipse que vimos en agosto.",
+    "momento_mas_flojo": 4.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 49,
+    "lo_ve_entero": false,
+    "segundo_salida": 26.0,
+    "motivo_salida": "La curiosidad del recorrido la mantiene, y el mapa final amarillo con la franja le gusta, pero se queda quieto varios segundos y desliza.",
+    "primera_impresion": "Ah, la ruta del eclipse, eso me interesa.",
+    "momento_mas_flojo": 25.5,
+    "momento_mas_fuerte": 24.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "El de Oviedo 108 segundos, qué suerte"
+  },
+  {
+    "id": 50,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.5,
+    "motivo_salida": "Le flipa el tema y busca Teruel; lo ve con 94 s de totalidad en el resumen, lo lee con calma y se va porque el final ya no cambia.",
+    "primera_impresion": "El eclipse con datos de la NASA, esto es lo mío.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 16.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "Teruel 94 segundos de totalidad, desde el pueblo se vio brutal. Buen trabajo con los datos"
+  }
+]

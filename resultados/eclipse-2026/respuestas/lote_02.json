@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Un mapa gris lleno de letra pequeña y un contador a 0 sin que se mueva nada; no le dice nada en el primer segundo.",
+    "primera_impresion": "Otro mapa con números, esto parece una infografía del telediario.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 12,
+    "lo_ve_entero": false,
+    "segundo_salida": 22.0,
+    "motivo_salida": "Le engancha cuando aparece el anillo de luz cruzando ciudades, pero cuando el anillo se va al mar y todo vuelve a oscurecerse sin pasar nada, desliza.",
+    "primera_impresion": "Ah, lo del eclipse de agosto, a ver por dónde pasó.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 12.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 13,
+    "lo_ve_entero": false,
+    "segundo_salida": 5.0,
+    "motivo_salida": "Entiende que va del eclipse, pero lleva cinco segundos viendo un mapa gris que apenas cambia y un 0 fijo; se aburre antes de que llegue el anillo.",
+    "primera_impresion": "El eclipse en España, vale, pero ¿cuándo pasa algo?",
+    "momento_mas_flojo": 4.5,
+    "momento_mas_fuerte": 2.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 14,
+    "lo_ve_entero": true,
+    "segundo_salida": 31.0,
+    "motivo_salida": "Le encantan los mapas: el recorrido de la sombra ciudad por ciudad y el mapa final con la franja y los segundos de totalidad le compensan la espera.",
+    "primera_impresion": "Mapa de España con datos del eclipse, esto me lo veo.",
+    "momento_mas_flojo": 3.5,
+    "momento_mas_fuerte": 24.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Oviedo con 108 segundos y Zaragoza con 85, ¿y Teruel? Qué buen mapa"
+  },
+  {
+    "id": 15,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.0,
+    "motivo_salida": "Le interesa ver A Coruña en la franja y se queda hasta el mapa final, pero como el mapa resumen no se mueve, lo lee unos segundos y pasa.",
+    "primera_impresion": "Mapa del eclipse, a ver si A Coruña sale.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 10.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "A Coruña 77 segundos, yo lo vi desde Riazor"
+  },
+  {
+    "id": 16,
+    "lo_ve_entero": false,
+    "segundo_salida": 26.0,
+    "motivo_salida": "Ve pasar el anillo por Valladolid y le hace ilusión, aguanta un poco el mapa final para leer los datos y se va porque ya no cambia nada.",
+    "primera_impresion": "Uy, el eclipse, a ver cómo se vio en Valladolid.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 15.0,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "Valladolid 88 segundos de totalidad, yo estaba ahí y fue increíble"
+  },
+  {
+    "id": 17,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Ve un mapa gris con un contador a cero y nada en movimiento; el eclipse ya pasó y no le despierta interés.",
+    "primera_impresion": "Lo del eclipse otra vez, eso ya fue hace dos meses.",
+    "momento_mas_flojo": 2.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 18,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.0,
+    "motivo_salida": "Le gusta ver la sombra cruzar el mapa y el contador de gente en totalidad, pero cuando sale por Valencia y el contador vuelve a 0 siente que ya terminó.",
+    "primera_impresion": "Mapa del eclipse, interesante, aunque esto va lento.",
+    "momento_mas_flojo": 5.5,
+    "momento_mas_fuerte": 16.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 19,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "No le interesan los eclipses ni los mapas y en los primeros segundos no hay nada que le sorprenda.",
+    "primera_impresion": "Un mapa con porcentajes, siguiente.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 20,
+    "lo_ve_entero": false,
+    "segundo_salida": 6.5,
+    "motivo_salida": "Le pica la curiosidad por el título, pero el principio es un mapa que apenas oscurece con el contador a 0 durante demasiado rato y se cansa justo antes del anillo.",
+    "primera_impresion": "Curioso, a ver si sale Oviedo en la totalidad.",
+    "momento_mas_flojo": 5.0,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

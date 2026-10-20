@@ -1,0 +1,122 @@
+[
+  {
+    "id": 81,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.5,
+    "motivo_salida": "La caída en rojo mola, pero cuando empieza a volver la luz es lento y lleno de letreros pequeños que en el metro no leo; me voy.",
+    "primera_impresion": "El apagón de abril, a ver cómo lo pintan; el mapa con luces queda chulo.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 82,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.0,
+    "motivo_salida": "Me engancha ver cómo se cae todo en 5 segundos, pero luego son 20 segundos de 'vuelve la luz a X' iguales y me canso.",
+    "primera_impresion": "Uf, el apagón, yo lo pasé en la periferia sin metro ni nada; a ver qué dicen.",
+    "momento_mas_flojo": 24.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Y aún no sabemos quién tuvo la culpa"
+  },
+  {
+    "id": 83,
+    "lo_ve_entero": false,
+    "segundo_salida": 36.0,
+    "motivo_salida": "Me quedo hasta ver que vuelve la luz a Asturias y casi todo el mapa encendido, pero el porcentaje bajando ya no aporta nada.",
+    "primera_impresion": "El apagón contado con datos de REE, esto me interesa.",
+    "momento_mas_flojo": 33.0,
+    "momento_mas_fuerte": 6.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "En Asturias volvió antes que en Madrid, curioso"
+  },
+  {
+    "id": 84,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Mapa con números y texto, cero meme; en cuanto veo que es un vídeo de datos paso.",
+    "primera_impresion": "Otro vídeo del apagón con un mapa, ya está muy visto.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 85,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.0,
+    "motivo_salida": "Veo cómo Cataluña aguanta la última y luego se apaga, que me hace gracia, pero después el mapa se queda negro y la recuperación va a cámara lenta.",
+    "primera_impresion": "Ostras, el apagón, ¿empezó en Extremadura?",
+    "momento_mas_flojo": 10.0,
+    "momento_mas_fuerte": 7.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 86,
+    "lo_ve_entero": false,
+    "segundo_salida": 8.5,
+    "motivo_salida": "La mancha roja está guapa, pero cuando todo se queda negro y no pasa nada durante varios segundos deslizo.",
+    "primera_impresion": "Mapa nocturno de España, parece un juego de estrategia.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 87,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "En el primer segundo solo hay un mapa quieto con mucho texto; no espero a que se ponga rojo.",
+    "primera_impresion": "Mapa y letras, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 88,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Me gustan los mapas y ver provincia a provincia cómo se va encendiendo; quiero llegar al dato final aunque la segunda mitad se haga larga.",
+    "primera_impresion": "Mapa de España de noche con el apagón, esto es lo mío.",
+    "momento_mas_flojo": 43.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "¿Por qué Madrid tardó tanto y el País Vasco tan poco? Se ve muy bien la cascada"
+  },
+  {
+    "id": 89,
+    "lo_ve_entero": false,
+    "segundo_salida": 41.5,
+    "motivo_salida": "Lo sigo casi todo porque lo viví y quería ver las horas reales; al salir el resultado de 18 horas ya tengo lo que quería y el cartel final se queda parado.",
+    "primera_impresion": "El apagón del 28 de abril, qué miedo pasamos; a ver cómo fue.",
+    "momento_mas_flojo": 30.0,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "En mi casa no volvió hasta pasadas las once de la noche, justo como sale aquí"
+  },
+  {
+    "id": 90,
+    "lo_ve_entero": false,
+    "segundo_salida": 6.0,
+    "motivo_salida": "Me quedo por la mancha roja que se expande por el mapa, pero en cuanto todo está apagado ya sé cómo acaba y paso.",
+    "primera_impresion": "Mapa del apagón, a ver si dura.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

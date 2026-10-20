@@ -1,0 +1,122 @@
+[
+  {
+    "id": 21,
+    "lo_ve_entero": false,
+    "segundo_salida": 9.5,
+    "motivo_salida": "El mapa de España poniéndose rojo me atrapó, pero en cuanto quedó todo negro y quieto unos segundos me fui; en Asturias ya lo viví y no necesito revivirlo.",
+    "primera_impresion": "Anda, el apagón de abril en un mapa, a ver cómo se ve.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 4.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 22,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.5,
+    "motivo_salida": "Mola ver cómo se apaga toda España en 5 segundos, pero cuando ya está todo negro y solo cambia la hora no hay nada más que ver.",
+    "primera_impresion": "Mucho texto y un mapa, ¿esto qué es?",
+    "momento_mas_flojo": 7.0,
+    "momento_mas_fuerte": 5.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 23,
+    "lo_ve_entero": false,
+    "segundo_salida": 32.0,
+    "motivo_salida": "Me interesaba ver el orden en que volvía la luz por comunidades y lo seguí bastante, pero cuando solo quedaba bajar del 10 % al 0 % se hizo eterno.",
+    "primera_impresion": "El apagón con los datos de REE, esto me interesa.",
+    "momento_mas_flojo": 31.0,
+    "momento_mas_fuerte": 12.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Y en Soria aún hubo pueblos que tardaron más de lo que dice el mapa"
+  },
+  {
+    "id": 24,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Al principio es un mapa casi quieto con mucho texto; no esperé a que pasara nada.",
+    "primera_impresion": "Otro vídeo del apagón, ya está muy visto.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 25,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.0,
+    "motivo_salida": "La cascada y el arranque con Francia, Marruecos y las hidráulicas me parecieron curiosos, pero luego es ir encendiéndose ciudades una tras otra y ya me quedé con la idea.",
+    "primera_impresion": "Simulación del colapso de la red, a ver si es rigurosa.",
+    "momento_mas_flojo": 20.0,
+    "momento_mas_fuerte": 13.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 26,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Vi que se ponía rojo pero con tanta cifra pequeña no me apetecía leer en el descanso; pasé a otra cosa.",
+    "primera_impresion": "Uf, mapa con números, esto es serio.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 27,
+    "lo_ve_entero": false,
+    "segundo_salida": 36.0,
+    "motivo_salida": "El apagón en vivo y la península encendiéndose de noche era bonito, pero al final apenas cambia nada y solo baja el porcentaje decimal a decimal.",
+    "primera_impresion": "Esto parece un juego de estrategia con el mapa de España, me gusta.",
+    "momento_mas_flojo": 35.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Parece el Plague Inc pero con luz"
+  },
+  {
+    "id": 28,
+    "lo_ve_entero": false,
+    "segundo_salida": 6.5,
+    "motivo_salida": "El colapso en cinco segundos me sorprendió, pero en cuanto todo quedó negro no vi motivo para seguir.",
+    "primera_impresion": "El apagón, a ver cómo de rápido fue.",
+    "momento_mas_flojo": 6.0,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 29,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.0,
+    "motivo_salida": "Ver caer España entera estuvo bien, pero el rato a oscuras con solo el reloj avanzando y luego los rótulos pequeños de centrales me cansaron.",
+    "primera_impresion": "El apagón de abril; a ver si dice de quién fue la culpa.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 3.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Y la causa ¿qué? Eso es lo que interesa"
+  },
+  {
+    "id": 30,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "En la cola no da para leer tanto texto y el primer segundo el mapa casi no se mueve.",
+    "primera_impresion": "Un mapa amarillo con datos, no sé qué está pasando.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

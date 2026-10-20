@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "lo_ve_entero": false,
+    "segundo_salida": 33.5,
+    "motivo_salida": "Le engancha ver la cascada y luego cómo vuelve la luz, pero cuando el porcentaje se arrastra del 3% al 1% y el mapa ya está casi todo encendido, siente que no pasa nada más.",
+    "primera_impresion": "Anda, el apagón de abril, a ver cómo lo pintan.",
+    "momento_mas_flojo": 32,
+    "momento_mas_fuerte": 5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 2,
+    "lo_ve_entero": false,
+    "segundo_salida": 10,
+    "motivo_salida": "La mancha roja comiéndose España en 5 segundos le mola, pero luego el mapa se queda negro y quieto unos segundos y desliza.",
+    "primera_impresion": "Mapa de España con un título del apagón, vale, le doy un segundo.",
+    "momento_mas_flojo": 9,
+    "momento_mas_fuerte": 4.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 3,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "El primer segundo es un mapa quieto con mucho texto y un reloj a 0%, no ve nada moverse y pasa al siguiente.",
+    "primera_impresion": "Otro mapa con letras, nada.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 4,
+    "lo_ve_entero": true,
+    "segundo_salida": 45.2,
+    "motivo_salida": "Le encantan los mapas y ver España apagarse de golpe y encenderse ciudad a ciudad en la cama es hipnótico; se queda hasta el resultado aunque el final se le hace largo.",
+    "primera_impresion": "Uf, el apagón en mapa, esto me lo veo.",
+    "momento_mas_flojo": 38,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "lo de Barcelona aguantando hasta el final está muy bien visto"
+  },
+  {
+    "id": 5,
+    "lo_ve_entero": false,
+    "segundo_salida": 24,
+    "motivo_salida": "Le interesa porque lo vivió, ve la caída y cómo arrancan las hidráulicas, pero los círculos y nombres de centrales le saturan sin sonido y se cansa antes de que vuelva la luz a Madrid.",
+    "primera_impresion": "El apagón, yo estaba en el curro ese día, a ver.",
+    "momento_mas_flojo": 11,
+    "momento_mas_fuerte": 5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 6,
+    "lo_ve_entero": false,
+    "segundo_salida": 38,
+    "motivo_salida": "Le interesa el lado técnico (interconexión con Francia, Marruecos, hidráulicas) y lo sigue con gusto, pero el último tramo de porcentajes bajando decimales es lo mismo una y otra vez y se baja antes del cartel final.",
+    "primera_impresion": "Simulación del apagón calibrada con REE, esto puede estar bien.",
+    "momento_mas_flojo": 36,
+    "momento_mas_fuerte": 11.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "y Barcelona fue la primera en volver gracias a Francia, interesante"
+  },
+  {
+    "id": 7,
+    "lo_ve_entero": false,
+    "segundo_salida": 2,
+    "motivo_salida": "Ve el titular del apagón y un mapa casi estático; no le aporta nada que no sepa y desliza.",
+    "primera_impresion": "El apagón otra vez, eso ya pasó.",
+    "momento_mas_flojo": 1,
+    "momento_mas_fuerte": 1.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 8,
+    "lo_ve_entero": false,
+    "segundo_salida": 29,
+    "motivo_salida": "Le atrapa el rojo extendiéndose y mirar qué ciudades se encienden, pero cuando ya está media España iluminada pierde la tensión y se va.",
+    "primera_impresion": "Mapa oscuro de la península con el apagón, me paro un momento.",
+    "momento_mas_flojo": 9.5,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 9,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.5,
+    "motivo_salida": "Ve que empieza a ponerse rojo pero el tema no le llama, y con la música genérica no hay nada que le retenga.",
+    "primera_impresion": "Lo del apagón, bueno.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 3,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 10,
+    "lo_ve_entero": false,
+    "segundo_salida": 17,
+    "motivo_salida": "La propagación del rojo le sorprende y se queda, pero después hay un buen rato de mapa negro con solo el reloj avanzando y lo pasa.",
+    "primera_impresion": "Mapa de España con un punto en Badajoz, ¿qué va a pasar?",
+    "momento_mas_flojo": 15,
+    "momento_mas_fuerte": 6,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

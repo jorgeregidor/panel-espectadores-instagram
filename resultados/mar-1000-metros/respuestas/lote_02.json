@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Ve un mapa oscuro de Andalucía con números y mucho texto; no hay nada que le llame la atención en dos segundos y desliza.",
+    "primera_impresion": "Otro vídeo de mapas con cifras, esto no va conmigo.",
+    "momento_mas_flojo": 0.0,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 12,
+    "lo_ve_entero": false,
+    "segundo_salida": 16.5,
+    "motivo_salida": "Le engancha ver caer Zaragoza y Madrid, pero a partir de ahí es más de lo mismo, el azul avanzando y otra ciudad, y se va antes del final.",
+    "primera_impresion": "1.000 metros es una barbaridad, a ver si Madrid se salva.",
+    "momento_mas_flojo": 16.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 13,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "Ve hundirse la costa y Barcelona, entiende la idea, pero no le aporta nada más y sigue pasando.",
+    "primera_impresion": "Una simulación de subida del mar, vale.",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 6.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 14,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y ver Zaragoza bajo el agua a +225 m le pica; se queda hasta ver qué queda en pie.",
+    "primera_impresion": "Uf, mapa de España inundándose, esto me lo veo.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Zaragoza a 225 m y yo pensando que estábamos altos jajaja"
+  },
+  {
+    "id": 15,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le gusta la geografía y quiere ver cuándo cae Galicia y qué ciudades resisten; el final con Ávila, Soria y Segovia le cierra la duda.",
+    "primera_impresion": "Empieza por el sur, a ver cuándo llega a Coruña.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "A Coruña la primera en caer, como siempre"
+  },
+  {
+    "id": 16,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Es curiosa y le pica ver cuándo cae Valladolid; cuando aparece a +729 m se queda hasta el final para ver qué sobrevive.",
+    "primera_impresion": "Qué miedo, a ver hasta dónde llega el agua.",
+    "momento_mas_flojo": 22.5,
+    "momento_mas_fuerte": 15.0,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Valladolid aguantando hasta los 729 m 💪"
+  },
+  {
+    "id": 17,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.0,
+    "motivo_salida": "Lo ve casi entero por curiosidad y al ver Soria resaltada como superviviente sale a mandárselo a sus amigos, sin esperar al final.",
+    "primera_impresion": "¿1.000 metros? A ver si Soria se salva.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Soria ya existe y además sobrevive 😎"
+  },
+  {
+    "id": 18,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.0,
+    "motivo_salida": "Le engancha ver Madrid bajo el agua, pero la parte final con ciudades de Castilla se le hace repetitiva y le toca avanzar en la cola.",
+    "primera_impresion": "Mapa de inundación de España, interesante.",
+    "momento_mas_flojo": 18.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 19,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "No le interesan los mapas; ve que Murcia todavía ni aparece y desliza.",
+    "primera_impresion": "Un mapa con números, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 20,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.0,
+    "motivo_salida": "Le da curiosidad al principio, pero Oviedo no aparece y tras varias ciudades seguidas pierde el interés.",
+    "primera_impresion": "Curioso, a ver qué pasa con Asturias.",
+    "momento_mas_flojo": 11.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

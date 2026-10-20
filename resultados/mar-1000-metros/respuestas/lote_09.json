@@ -1,0 +1,122 @@
+[
+  {
+    "id": 81,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.5,
+    "motivo_salida": "Esperaba a ver Madrid hundirse; cuando cae en el 13,5 ya tiene lo que quería y desliza sin esperar al final.",
+    "primera_impresion": "Mapa de Andalucía con un titular de 1.000 metros; los contadores subiendo le dan algo de curiosidad.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 82,
+    "lo_ve_entero": false,
+    "segundo_salida": 20.5,
+    "motivo_salida": "Le engancha ver caer Barcelona y Terrassa, aguanta hasta el letrero de Ávila, Soria y Segovia, y en cuanto la imagen se congela se va.",
+    "primera_impresion": "Otro vídeo de mapas apocalípticos, a ver si sale Barcelona.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Los catalanes los primeros bajo el agua, como siempre 😂"
+  },
+  {
+    "id": 83,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.5,
+    "motivo_salida": "Le interesa la geografía y quiere ver hasta dónde llega el agua, pero el final se queda quieto y lo pasa antes de acabar.",
+    "primera_impresion": "Simulación del nivel del mar, sin sonido se entiende bien por los números.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 20.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "¿Y Oviedo cuándo cae? No lo he visto marcado"
+  },
+  {
+    "id": 84,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Un mapa con cifras no es lo suyo; no hay nada gracioso ni música que le enganche y pasa al siguiente.",
+    "primera_impresion": "Un mapa con datos, rollo documental.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 85,
+    "lo_ve_entero": false,
+    "segundo_salida": 11.0,
+    "motivo_salida": "Ve Barcelona y Zaragoza bajo el agua, le hace gracia, pero se le acaba el descanso y el ritmo se le hace algo repetitivo.",
+    "primera_impresion": "Mola, el mar comiéndose España; a ver si sale Barcelona.",
+    "momento_mas_flojo": 8.5,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 86,
+    "lo_ve_entero": false,
+    "segundo_salida": 8.0,
+    "motivo_salida": "Ve que Alicante cae enseguida, le hace algo de gracia, pero el agua avanza poco a poco y se aburre a mitad.",
+    "primera_impresion": "Mapa del sur con números subiendo, curioso.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 87,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "El primer segundo es un mapa oscuro de Andalucía casi quieto, no pasa nada que le llame y desliza.",
+    "primera_impresion": "Mucho texto y un mapa, paso.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 88,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y quiere ver qué queda al final; el dato de Ávila, Soria y Segovia le compensa aunque el cierre esté quieto.",
+    "primera_impresion": "Simulación de subida del mar sobre relieve real, esto es lo mío.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "Asturias desaparece entera y la meseta aguanta hasta el final, qué locura. Haced uno de Picos de Europa"
+  },
+  {
+    "id": 89,
+    "lo_ve_entero": false,
+    "segundo_salida": 22.0,
+    "motivo_salida": "Le parece curioso y ver Madrid hundido le impresiona; aguanta hasta el letrero final pero el cierre parado la hace salir.",
+    "primera_impresion": "¿1.000 metros? Eso no puede pasar, pero a ver qué sale.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Pues a vivir a Ávila 😅"
+  },
+  {
+    "id": 90,
+    "lo_ve_entero": false,
+    "segundo_salida": 7.0,
+    "motivo_salida": "Ve el mapa entero aparecer y Valencia bajo el agua, le gusta, pero tiene sueño y desliza rápido en cuanto deja de sorprenderle.",
+    "primera_impresion": "Mapa con el mar subiendo, puede estar bien.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

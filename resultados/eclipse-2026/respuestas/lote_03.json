@@ -1,0 +1,122 @@
+[
+  {
+    "id": 21,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Me para el mapa de España y ver Oviedo, pero en tres segundos solo cambian números pequeños sobre un mapa gris y no veo que pase nada.",
+    "primera_impresion": "Un mapa de España con un eclipse, a ver si sale Oviedo... sí, ahí está, pero está todo muy oscuro.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 22,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.5,
+    "motivo_salida": "Mucho texto y un mapa quieto con un contador a cero; no entiendo qué va a pasar y paso al siguiente.",
+    "primera_impresion": "Otro mapa con letra pequeña, esto es para profes de geografía.",
+    "momento_mas_flojo": 2.0,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 23,
+    "lo_ve_entero": false,
+    "segundo_salida": 26.0,
+    "motivo_salida": "Me lo quedé por ser de actualidad y ver el anillo cruzar España por ciudades, pero el mapa amarillo final quieto ya no me aporta y me voy.",
+    "primera_impresion": "Ah, lo del eclipse de agosto, a ver cómo pasó por aquí.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 9.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Y Soria ni aparece en el mapa, con lo cerca que pasó"
+  },
+  {
+    "id": 24,
+    "lo_ve_entero": true,
+    "segundo_salida": 31.0,
+    "motivo_salida": "El eclipse es lo mío y quería ver la franja entera y los segundos de totalidad de cada ciudad; me quedé mirando el mapa final con calma.",
+    "primera_impresion": "Eclipse total del 12 de agosto, esto lo veo, aunque el arranque está muy apagado.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 24.0,
+    "guardaria": true,
+    "compartiria": false,
+    "comentario": "Desde Soria se vio de maravilla, se hizo de noche. Muy bien hecho el mapa"
+  },
+  {
+    "id": 25,
+    "lo_ve_entero": false,
+    "segundo_salida": 27.5,
+    "motivo_salida": "Vi pasar la sombra por Valladolid con sus 88 segundos y el resumen final, pero el último tramo es la misma imagen fija y me sobra.",
+    "primera_impresion": "Datos del eclipse sobre el mapa, pinta bien pero tarda en arrancar.",
+    "momento_mas_flojo": 3.5,
+    "momento_mas_fuerte": 15.0,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "88 s en Valladolid, los mejores segundos del verano"
+  },
+  {
+    "id": 26,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Un mapa oscuro lleno de cifras en mi descanso, no es para mí.",
+    "primera_impresion": "Uf, un gráfico, siguiente.",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 27,
+    "lo_ve_entero": false,
+    "segundo_salida": 5.0,
+    "motivo_salida": "El tema me llamaba, pero cinco segundos de mapa casi igual, con el contador a cero, se me hacen eternos.",
+    "primera_impresion": "El eclipse, curioso; a ver cuándo empieza a moverse la sombra.",
+    "momento_mas_flojo": 4.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 28,
+    "lo_ve_entero": false,
+    "segundo_salida": 25.0,
+    "motivo_salida": "Me engancha ver el anillo bajando hacia Madrid y que se quedó en 99,97%; cuando sale el mapa resumen fijo ya tengo lo que quería y deslizo.",
+    "primera_impresion": "Eclipse total en España, me interesa, aunque está muy oscuro y quieto.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 17.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Madrid al 99,97%, por un pelo no tuvimos totalidad"
+  },
+  {
+    "id": 29,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Leo eclipse y miro un momento, pero no se mueve nada y no me interesa tanto.",
+    "primera_impresion": "Lo del eclipse, otra vez; un mapa con números.",
+    "momento_mas_flojo": 2.5,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 30,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "En la cola pasando rápido; la imagen oscura y estática no me dice nada en un segundo.",
+    "primera_impresion": "Un mapa oscuro con mucho texto pequeño.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 0.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

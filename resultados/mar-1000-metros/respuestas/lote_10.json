@@ -1,0 +1,122 @@
+[
+  {
+    "id": 91,
+    "lo_ve_entero": false,
+    "segundo_salida": 19.5,
+    "motivo_salida": "Lo sigue con interés porque ve Zaragoza bajo el agua pronto, pero cuando el contador llega a 1.000 m y el mapa se queda quieto ya sabe el final y desliza.",
+    "primera_impresion": "Mapa de España con el mar subiendo, a ver cuándo cae Zaragoza.",
+    "momento_mas_flojo": 19.0,
+    "momento_mas_fuerte": 5.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Zaragoza a 225 m y ya bajo el agua, qué poco nos queda"
+  },
+  {
+    "id": 92,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.0,
+    "motivo_salida": "Le engancha ver Terrassa y Barcelona hundidas y el contador subiendo, pero el cartel final se queda fijo varios segundos y se va antes de acabar.",
+    "primera_impresion": "1.000 metros es una barbaridad, a ver qué pasa con Barcelona.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 6.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Terrassa bajo el agua y Ávila sobreviviendo, el mundo al revés"
+  },
+  {
+    "id": 93,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Es de un pueblo de Toledo y quiere ver hasta dónde llega el agua en su zona; cuando cae Toledo se queda hasta el resultado final.",
+    "primera_impresion": "Curioso, España inundándose metro a metro con datos reales.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 11.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Toledo a 533 m, pues mi pueblo no aguantaba ni a la mitad"
+  },
+  {
+    "id": 94,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Al principio solo ve un zoom de Andalucía oscuro con mucho texto y no ve nada espectacular en el primer segundo, así que desliza.",
+    "primera_impresion": "Un mapa con muchas cifras, otro vídeo de estos.",
+    "momento_mas_flojo": 0.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 95,
+    "lo_ve_entero": false,
+    "segundo_salida": 20.5,
+    "motivo_salida": "Le gustan los mapas y el relieve azulado es bonito; aguanta hasta ver qué ciudades sobreviven, pero el final sin cambios se alarga y se va.",
+    "primera_impresion": "Mola, el relieve real de España con el mar subiendo.",
+    "momento_mas_flojo": 20.5,
+    "momento_mas_fuerte": 20.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Ávila, Soria y Segovia las nuevas islas del Atlántico"
+  },
+  {
+    "id": 96,
+    "lo_ve_entero": false,
+    "segundo_salida": 14.0,
+    "motivo_salida": "El título le hace gracia y se queda para ver Madrid, y en cuanto ve Madrid bajo el agua ya está satisfecha y desliza.",
+    "primera_impresion": "1.000 metros de mar, esto es exagerado, a ver qué pasa con Madrid.",
+    "momento_mas_flojo": 9.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 97,
+    "lo_ve_entero": false,
+    "segundo_salida": 12.0,
+    "motivo_salida": "Entiende la idea y espera a ver Toledo; cuando aparece Toledo bajo el agua ya tiene lo que quería y sale del baño.",
+    "primera_impresion": "España inundándose, a ver cuándo le toca a Toledo.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 11.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 98,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.0,
+    "motivo_salida": "Ve que Valencia se tiñe de azul en un momento, le hace algo de gracia, pero no le va el tema de mapas y desliza.",
+    "primera_impresion": "Mapa con cifras, no es lo mío.",
+    "momento_mas_flojo": 1.0,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 99,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Le encantan los mapas y la geografía; el mapa cambia todo el rato con datos y quiere ver qué queda al final, aunque el cierre se le hace largo.",
+    "primera_impresion": "Mapa de relieve de España con el mar subiendo, justo lo mío.",
+    "momento_mas_flojo": 22.0,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "¿Y la Sierra Nevada qué, también aguanta? Valencia ya se fue a los 2 segundos"
+  },
+  {
+    "id": 100,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.0,
+    "motivo_salida": "Ve que Murcia se queda bajo el agua enseguida, le hace gracia, pero el resto le interesa poco y desliza.",
+    "primera_impresion": "Otro de estos mapas de España, a ver qué pasa con Murcia.",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 3.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  }
+]

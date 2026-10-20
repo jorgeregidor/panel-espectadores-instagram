@@ -1,0 +1,122 @@
+[
+  {
+    "id": 41,
+    "lo_ve_entero": false,
+    "segundo_salida": 1.5,
+    "motivo_salida": "Un mapa con números y mucho texto no es lo mío; deslizo antes de que pase nada que me llame.",
+    "primera_impresion": "Otro mapa de España con datos, pinta a vídeo de geografía.",
+    "momento_mas_flojo": 0.0,
+    "momento_mas_fuerte": 0.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 42,
+    "lo_ve_entero": false,
+    "segundo_salida": 4.5,
+    "motivo_salida": "Ver el agua comiéndose Sevilla y Cádiz me paró un momento, pero en cuanto se aleja el mapa ya me da igual y sigo.",
+    "primera_impresion": "¿1.000 metros? Eso es una burrada, a ver qué sale.",
+    "momento_mas_flojo": 4.0,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 43,
+    "lo_ve_entero": false,
+    "segundo_salida": 15.0,
+    "motivo_salida": "Esperaba ver qué pasa con Granada, y cuando sale Granada en una isla ya me doy por satisfecho y sigo antes del final.",
+    "primera_impresion": "Empieza por Andalucía, a ver si llega a Granada.",
+    "momento_mas_flojo": 8.0,
+    "momento_mas_fuerte": 14.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Granada aguantando como una isla con Sierra Nevada, como tiene que ser"
+  },
+  {
+    "id": 44,
+    "lo_ve_entero": false,
+    "segundo_salida": 3.5,
+    "motivo_salida": "Las Canarias salen en una esquinita minúscula y no me interesan los mapas de la península; me voy.",
+    "primera_impresion": "Mapa de España con el mar subiendo, tema de documental.",
+    "momento_mas_flojo": 3.0,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 45,
+    "lo_ve_entero": false,
+    "segundo_salida": 13.5,
+    "motivo_salida": "Me quedé a ver cuándo caía Madrid; en cuanto pone 'Madrid, bajo el agua' ya tengo lo que quería y deslizo.",
+    "primera_impresion": "Curioso, a ver a qué altura se hunde Madrid.",
+    "momento_mas_flojo": 7.5,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Madrid a 654 metros, ya sabía yo que estábamos altos"
+  },
+  {
+    "id": 46,
+    "lo_ve_entero": false,
+    "segundo_salida": 2.0,
+    "motivo_salida": "Es un escenario imposible, no me aporta nada y deslizo rápido.",
+    "primera_impresion": "Simulación sin sentido, el mar no va a subir 1.000 metros.",
+    "momento_mas_flojo": 1.5,
+    "momento_mas_fuerte": 1.0,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 47,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Los números suben sin parar y quería ver qué ciudades quedaban; el final de Ávila, Soria y Segovia es la gracia.",
+    "primera_impresion": "Esto es curiosidad pura, me quedo a ver hasta dónde llega.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 20.5,
+    "guardaria": false,
+    "compartiria": true,
+    "comentario": "Soria por fin sirve para algo jajaja"
+  },
+  {
+    "id": 48,
+    "lo_ve_entero": false,
+    "segundo_salida": 11.0,
+    "motivo_salida": "Me enganchó al principio con el agua entrando, pero a mitad parece que todo va igual de lento y me aburro antes de llegar a Madrid.",
+    "primera_impresion": "Uy, a ver si Madrid se hunde.",
+    "momento_mas_flojo": 10.0,
+    "momento_mas_fuerte": 2.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": ""
+  },
+  {
+    "id": 49,
+    "lo_ve_entero": false,
+    "segundo_salida": 21.5,
+    "motivo_salida": "Lo vi hasta saber qué ciudades se salvaban, pero cuando el mapa se queda quieto con la pregunta ya no pasa nada y me voy.",
+    "primera_impresion": "Me gustan estas curiosidades, a ver qué queda de España.",
+    "momento_mas_flojo": 21.0,
+    "momento_mas_fuerte": 13.5,
+    "guardaria": false,
+    "compartiria": false,
+    "comentario": "Madrid se hunde antes que Valladolid, no me lo esperaba"
+  },
+  {
+    "id": 50,
+    "lo_ve_entero": true,
+    "segundo_salida": 23.0,
+    "motivo_salida": "Soy de Teruel y quería ver a qué altura caía; sale a +920 m y luego el final, así que lo veo entero.",
+    "primera_impresion": "Relieve real y datos del NSIDC, esto me interesa.",
+    "momento_mas_flojo": 21.5,
+    "momento_mas_fuerte": 18.5,
+    "guardaria": true,
+    "compartiria": true,
+    "comentario": "Teruel aguanta hasta los 920 m, más que Madrid. Teruel existe y además flota"
+  }
+]
