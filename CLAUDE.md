@@ -15,7 +15,7 @@ Sirve para pasar un vídeo por 100 espectadores simulados usando **subagentes de
    tal cual como prompt. Cada uno lee los fotogramas y escribe `resultados/X/respuestas/lote_NN.json`.
    No dar a los subagentes ningún contexto del proyecto: la gracia es que vean el vídeo "en frío".
 5. Cuando terminen: `python3 panel.py juntar resultados/X` y enseñar `resultados/X/resumen.md`.
-6. Para saber si el panel es fiable: pasar los vídeos ya publicados de `datos_reales.json` y ejecutar
+6. Para saber si el panel es fiable: pasar los vídeos ya publicados (datos reales en `../spain-simulator`, rama `main`, `metricas/videos.json`; se apuntan allí, nunca aquí) y ejecutar
    `python3 calibrar.py`. Solo si ordena bien los vídeos reales, usarlo para decidir.
 
 Nunca usar worktrees.

@@ -14,7 +14,7 @@ Carpeta aparte del proyecto: no toca `spain-simulator`. Sirve para "enseñar" un
 | `panel.py` | `preparar`: crea 10 lotes de 10 espectadores; `juntar`: junta las respuestas y saca la curva | No |
 | `CLAUDE.md` | Instrucciones para el chat: lanza un subagente por lote | Usa tu plan de Claude |
 | `calibrar.py` | Compara el panel con los datos reales de vídeos ya publicados | No |
-| `datos_reales.json` | Omisión, tiempo medio y "se quedaron viendo" reales | — |
+| (datos reales) | Se leen de `../spain-simulator` rama `main`, `metricas/videos.json`: la única fuente | — |
 
 ## Cómo se usa
 
